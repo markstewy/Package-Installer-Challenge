@@ -1,0 +1,14 @@
+{
+  "name": "pluralsight-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "installer.js",
+  "scripts": {
+    "test": "node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
