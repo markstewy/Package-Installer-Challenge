@@ -71,7 +71,7 @@ The following input should be rejected because it contains a cycle (Leetmeme -> 
 ]
 ```
 
-# My Solution: Getting Started
+# My Solution / Getting Started
 
 *** Tests with Jasmine:***
 	1) "npm install"
