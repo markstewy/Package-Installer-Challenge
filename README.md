@@ -106,10 +106,10 @@ TODOS:
 
 Feedback:
 
-*+ Passes all our tests? (I had to make a couple tweaks)
-*+ Understands the algorithm well
-*- Returns an array instead of a comma separated string (which apparently our test harness doesn't flag)
-*- Does not have a single entry point
-*- Poor naming of variables and inconsistent naming pattern
-*+/- Inconsistent use of js syntax
-*- Sounds like he may have never even done testing let alone TDD
+* + Passes all our tests? (I had to make a couple tweaks)
+* + Understands the algorithm well
+* - Returns an array instead of a comma separated string (which apparently our test harness doesn't flag)
+* - Does not have a single entry point
+* - Poor naming of variables and inconsistent naming pattern
+* +/- Inconsistent use of js syntax
+* - Sounds like he may have never even done testing let alone TDD
