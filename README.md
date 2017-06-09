@@ -103,3 +103,13 @@ TODOS:
 * Installer could've been written as a class, which would've been a littler cleaner looking
 * do..while loops aren't really idiomatic in JS and should probably usually be avoided, especially since there's now a do expression proposal
 * lots of mutation and stuff, which is fine for some companies that are big on OO/imperative programming, but probably wouldn't fly at other companies (like Jane, for example)
+
+Feedback:
+
+*+ Passes all our tests? (I had to make a couple tweaks)
+*+ Understands the algorithm well
+*- Returns an array instead of a comma separated string (which apparently our test harness doesn't flag)
+*- Does not have a single entry point
+*- Poor naming of variables and inconsistent naming pattern
+*+/- Inconsistent use of js syntax
+*- Sounds like he may have never even done testing let alone TDD
